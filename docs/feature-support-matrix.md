@@ -23,6 +23,9 @@ The matrix below reflects the canonical Council-ratified version. As outlined in
 | eip155:43114             | avalanche     | Yes         | Yes          | Yes               | Yes                  | Yes              |
 | eip155:250               | fantom        | Yes         | Yes          | Yes               | Yes                  | Yes              |
 | eip155:137               | polygon       | Yes         | Yes          | Yes               | Yes                  | Yes              |
+| eip155:2046399126        | skale-europa  | Yes         | Yes          | Yes               | Yes                  | Yes              |
+| eip155:1564830818        | skale-calypso | Yes         | Yes          | Yes               | Yes                  | Yes              |
+| eip155:1482601649        | skale-nebula  | Yes         | Yes          | Yes               | Yes                  | Yes              |
 | **Data Source Features** |               |             |              |                   |                      |                  |
 | ipfs.cat in mappings     |               | Yes         | Yes          | No                | No                   | No               |
 | ENS                      |               | Yes         | Yes          | No                | No                   | No               |
